@@ -1,0 +1,29 @@
+2017-08-12 08:12:33,238->INFO->Application started
+2017-08-12 08:12:36,601->DEBUG->a=12, b=3
+2017-08-12 08:12:36,604->INFO->opening data1.csv
+2017-08-12 08:15:17,774->INFO->Application started
+2017-08-12 08:15:19,989->DEBUG->a=12, b=3
+2017-08-12 08:15:19,990->INFO->opening data1.csv
+2017-08-12 08:15:59,854->INFO->Application started
+2017-08-12 08:16:01,757->DEBUG->a=12, b=3
+2017-08-12 08:16:01,757->INFO->opening data1.csv
+2017-08-12 08:16:01,759->ERROR->[Errno 2] No such file or directory: 'data1.csv'
+Traceback (most recent call last):
+  File "app1.py", line 11, in <module>
+    f=open('data1.csv','r')
+IOError: [Errno 2] No such file or directory: 'data1.csv'
+2017-08-12 08:16:01,761->ERROR->file not found
+Traceback (most recent call last):
+  File "app1.py", line 11, in <module>
+    f=open('data1.csv','r')
+IOError: [Errno 2] No such file or directory: 'data1.csv'
+2017-08-12 08:16:01,762->INFO->File closed successfully
+2017-08-12 08:16:01,762->INFO->some other statements 
+2017-08-12 08:16:01,763->INFO->program ended
+2017-08-12 08:16:45,533->INFO->Application started
+2017-08-12 08:16:48,291->DEBUG->a=23, b=5
+2017-08-12 08:16:48,291->INFO->opening data1.csv
+2017-08-12 08:16:48,292->INFO->File closed sucessfully!!
+2017-08-12 08:16:48,294->INFO->File closed successfully
+2017-08-12 08:16:48,295->INFO->some other statements 
+2017-08-12 08:16:48,296->INFO->program ended

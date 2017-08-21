@@ -1,0 +1,36 @@
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db2\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fb0b66663f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db2', closed: 0>, <cursor object at 0x7fb0b6ce0c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db2\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fb0b66663f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db2', closed: 0>, <cursor object at 0x7fb0b6ce0c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db2\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f2d4181d3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db2', closed: 0>, <cursor object at 0x7f2d41e97c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db2\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f2d4181d3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db2', closed: 0>, <cursor object at 0x7f2d41e97c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db2\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fa508e503f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db2', closed: 0>, <cursor object at 0x7fa5094cbc50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f9fb110c3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7f9fb1787c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f9fb110c3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7f9fb1787c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fbf07d0e3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7fbf08389c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fbf07d0e3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7fbf08389c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7fbf07d0e3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7fbf08389c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f2beaa6f3f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7f2beb0eac50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f56f3c263f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7f56f42a3c50; closed: 0>
+DEBUG:root:{'host': 'localhost', 'pwd': 'root\n', 'db': 'db3\n', 'user': 'postgres\n'}
+DEBUG:root:<connection object at 0x7f7ef58d83f8; dsn: 'host=localhost password=xxxx user=postgres dbname=db3', closed: 0>, <cursor object at 0x7f7ef5f54c50; closed: 0>

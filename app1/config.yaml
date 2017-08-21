@@ -1,0 +1,8 @@
+system1:
+  user: user1
+  pwd: pwd1
+  host: localhost
+system2:
+  user: user2
+  pwd: pwd2
+  host: localhost2

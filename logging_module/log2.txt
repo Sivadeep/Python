@@ -1,0 +1,18 @@
+2017-08-12 08:03:14,373->INFO->Info message
+2017-08-12 08:03:14,374->DEBUG->Debug message.
+2017-08-12 08:03:14,375->WARNING->Warning message
+2017-08-12 08:03:14,375->ERROR->Error mesasage
+2017-08-12 08:03:14,375->ERROR->exception message.
+None
+2017-08-12 08:03:23,960->INFO->Info message
+2017-08-12 08:03:23,966->DEBUG->Debug message.
+2017-08-12 08:03:23,967->WARNING->Warning message
+2017-08-12 08:03:23,968->ERROR->Error mesasage
+2017-08-12 08:03:23,968->ERROR->exception message.
+None
+2017-08-12 08:04:41,477->INFO->Info message
+2017-08-12 08:04:41,484->DEBUG->Debug message.
+2017-08-12 08:04:41,485->WARNING->Warning message
+2017-08-12 08:04:41,485->ERROR->Error mesasage
+2017-08-12 08:04:41,485->ERROR->exception message.
+None
